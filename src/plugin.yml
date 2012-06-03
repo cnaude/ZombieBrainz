@@ -1,0 +1,7 @@
+name: ZombieBrainz
+main: me.cnaude.ZombieBrainz.ZombieBrainz
+version: 0.1
+author: Chris Naudé 
+description: Eat other players
+website: http://dev.bukkit.org/server-mods/zombiebrainz/
+
